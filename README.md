@@ -22,25 +22,25 @@ Check for any inconsistencies or missing values and handle them accordingly.
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/f85a9cbb-2b92-4b38-b476-727542c245b1)
 
-#### 1. Number of Patients
+#### Number of Patients
 Card: The card displays a single value indicating the total number of patients.\
 Value: 4844\
 Insight: This KPI represents the total count of patient records analyzed.\
 Risk: A high patient volume may indicate a need for more resources and staff to maintain quality care.
 
-#### 2. Female Patients Not Overweight
+#### Female Patients Not Overweight
 Card: A single value indicating the number of female patients who are not overweight.\
 Value: 1344\
 Insight: This metric highlights the subset of female patients who fall within a healthy weight range.\
 Risk: While a substantial portion is not overweight, the presence of overweight patients indicates potential risks for weight-related health issues that need to be addressed.
 
-#### 3. Smoking with High Health Risk
+#### Smoking with High Health Risk
 Card: A single value showing the number of patients who smoke and have a high health risk.\
 Value: 352\
 Insight: Indicates how many patients are at significant risk due to smoking.\
 Risk: These patients are at an increased risk for severe health complications, necessitating targeted smoking cessation programs and interventions to reduce this risk.
 
-#### 4. Exercise < 30 mins with High and Moderate Health Risks
+#### Exercise < 30 mins with High and Moderate Health Risks
 Card: A single value showing the number of patients who exercise less than 30 minutes and have high or moderate health risks.\
 Value: 792\
 Insight: Represents patients with insufficient physical activity contributing to their health risks.\
@@ -48,7 +48,7 @@ Risk: This highlights the need for promoting physical activity among patients, a
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/d736fb46-7c06-4998-8d0a-fc066f6a148f)
 
-#### 5. Percentage of Heart Attack
+#### Percentage of Heart Attack
 Chart: A pie chart showing the percentage of patients who have had a heart attack.\
 Values:\
 Yes: 2.8%\
@@ -58,7 +58,7 @@ Risk: Despite the low percentage, heart attacks have severe consequences. Preven
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/f40529da-9d6b-4124-9955-8e41d24058d4)
 
-#### 7. Percentage of Stroke
+#### Percentage of Stroke
 Chart: A pie chart showing the percentage of patients who have had a stroke.\
 Values:\
 Yes: 1.7%\
@@ -68,7 +68,7 @@ Risk: Similar to heart attacks, strokes have serious health impacts. Continuous 
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/20874ac5-bc85-420b-8506-54b72f84efd1)
 
-#### 7. Average Weight by Occupation Type
+#### Average Weight by Occupation Type
 Chart: A bar chart displaying the average weight of patients categorized by their occupation type.\
 Values:\
 Others: ~66 kg\
@@ -80,7 +80,7 @@ Risk: Certain occupation types might be associated with lifestyle factors that i
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/61a3b163-da55-41a6-82d2-10a5979771ee)
 
-#### 8. Count of Overweight by Race
+#### Count of Overweight by Race
 Chart: A horizontal bar chart showing the number of overweight patients categorized by race.\
 Values:\
 Chinese: 1940 patients\
@@ -92,7 +92,7 @@ Risk: Tailored interventions based on cultural and demographic factors may be re
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/37ab0496-7d3d-446a-ba48-f0ac20dacc30)
 
-#### 9. Count of Health Risk
+#### Count of Health Risk
 Chart: A bar chart showing the count of patients categorized by their health risk level.\
 Values:\
 Normal: ~2000\
@@ -104,7 +104,7 @@ Risk: Patients in the moderate and high-risk categories require closer monitorin
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/63d4058f-0ee4-4295-ba71-d500e6b3e8e0)
 
-#### 10. Count of Health Risk by Age Group
+#### Count of Health Risk by Age Group
 Chart: A stacked bar chart showing the count of patients with different health risks, segmented by age group.\
 Values:\
 <40: Mainly normal\
@@ -117,7 +117,7 @@ Risk: Aging populations are at increased risk for health complications. Resource
 
 ![image](https://github.com/dishadey-github/health-care-analytics-of-hospital/assets/60807918/4de7c946-46d8-40be-a4ed-b46cc45368e8)
 
-#### 11. Count of Health Risk Categories
+#### Count of Health Risk Categories
 Chart: A bar chart showing the count of patients categorized by health risk levels (e.g., Good, Very Good, Not Good, Poor).\
 Values:\
 Good: ~3500\
